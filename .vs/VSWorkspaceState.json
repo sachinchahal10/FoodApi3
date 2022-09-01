@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FoodAPI",
+    "\\FoodAPI\\FoodAPI",
+    "\\FoodAPI\\FoodAPI\\Controllers",
+    "\\FoodAPI\\FoodAPI\\Data",
+    "\\FoodAPI\\FoodAPI\\Models",
+    "\\FoodAPI\\FoodAPI\\obj"
+  ],
+  "SelectedNode": "\\FoodAPI\\FoodAPI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
